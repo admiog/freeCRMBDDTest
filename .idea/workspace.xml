@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b20d233e-fc22-4b6f-b29b-9039e838d49b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Features/contacts.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/ContactsStepDefinition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Runner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Runner/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,20 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/stepDefinitions/LoginStepDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Runner/TestRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="273">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,6 +41,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Runner/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stepDefinitions/ContactsStepDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="43" column="85" lean-forward="true" selection-start-line="43" selection-start-column="85" selection-end-line="43" selection-end-column="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2296#2297#0" expanded="true" />
+                <element signature="e#2317#2318#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Features/contacts.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Features/login.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
@@ -75,8 +102,10 @@
         <option value="$PROJECT_DIR$/src/main/java/stepDefinition/LoginStepDefinition.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/stepDefinitions/LoginStepDefinition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Runner/TestRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/Features/login.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/Features/contacts.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/stepDefinitions/ContactsStepDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Runner/TestRunner.java" />
       </list>
     </option>
   </component>
@@ -132,7 +161,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="freeCRMBDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freeCRMBDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="freeCRMBDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freeCRMBDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stepDefinitions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="freeCRMBDDTest" type="b2602c69:ProjectViewProjectNode" />
@@ -152,7 +197,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546265862035" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546273505643" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,34 +246,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRunner - 2018.12.24 at 20h 32m 15s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 15h 50m 38s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.24 at 20h 32m 58s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 07m 50s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.24 at 20h 36m 33s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 09m 29s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.24 at 20h 49m 48s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 10m 33s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.24 at 21h 43m 20s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 10m 57s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.29 at 11h 56m 43s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 15m 45s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.29 at 11h 57m 49s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 17m 51s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.29 at 11h 59m 09s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 19m 28s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.29 at 12h 14m 39s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 20m 30s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.29 at 12h 15m 21s.xml">
+    <history-entry file="TestRunner - 2018.12.31 at 16h 23m 22s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -236,7 +281,7 @@
     <frame x="116" y="26" width="1280" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2581967" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2581967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -245,7 +290,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,10 +320,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Features/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Features/contacts.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stepDefinitions/ContactsStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="43" column="85" lean-forward="true" selection-start-line="43" selection-start-column="85" selection-end-line="43" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+            <element signature="e#2317#2318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/stepDefinitions/LoginStepDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        <state relative-caret-position="273">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -288,17 +359,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Runner/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Features/login.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>

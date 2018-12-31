@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "C:\\Users\\bolas\\IdeaProjects\\freeCRMBDDTest\\src\\main\\java\\Features",
+        features = "C:\\Users\\bolas\\IdeaProjects\\freeCRMBDDTest\\src\\main\\java\\Features\\login.feature",
         glue = {"stepDefinitions"},
         format = {"pretty", "html:test-output"},
         monochrome = true,
